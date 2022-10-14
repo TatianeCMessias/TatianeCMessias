@@ -18,7 +18,7 @@
 ## Perfil
 - Me chamo Tatiane, estou cursando TI.
 
-## Cusando
+## Cursando
 - Desenvolvimento de Sistemas - ETE
 - Programador Front-end - SENAI SP
 
