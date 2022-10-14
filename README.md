@@ -19,7 +19,7 @@
 - Me chamo Tatiane, estou cursando TI.
 
 ## Cusando
-- Análise e Desenvolvimento de Sistemas - ETE
+- Desenvolvimento de Sistemas - ETE
 - Programador Front-end - SENAI SP
 
 ## Hobbies
