@@ -20,7 +20,7 @@
 
 ## Cusando
 - Desenvolvimento de Sistemas - ETE
-- Programadora Front-end - SENAI SP
+- Programador Front-end - SENAI SP
 
 ## Hobbies
 - Livros📚
