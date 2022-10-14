@@ -36,7 +36,7 @@
 - Programador Front-end - SENAI SP
 
 ## Hobbies
-- Livros📚
+- Ler📚
 - Doramas❤️
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
