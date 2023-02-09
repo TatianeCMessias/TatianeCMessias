@@ -2,7 +2,7 @@
 
 ### Olá! Me chamo Tatiane Messias🖐️
 
-## Meus contatos:
+## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-messias-ba3aba235/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatianem600@gmail.com)
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Tecnologias que estudo:
+## Tecnologias que estudo: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center">
 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/TatianeCMessias">
@@ -25,7 +25,7 @@
 ## IDEs
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/TatianeCMessias)
 
-## Sistema Operacional
+## Sistema Operacional <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> 
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TatianeCMessias)
 
 ## Perfil
