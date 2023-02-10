@@ -4,8 +4,8 @@
 
 ## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-messias-ba3aba235/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatianem600@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-25744a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-messias-ba3aba235/)
+[![Gmail](https://img.shields.io/badge/Gmail-25744a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatianem600@gmail.com)
 
 <div align="center">
   <a href="https://github.com/TatianeCMessias">
@@ -17,16 +17,16 @@
 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/TatianeCMessias">
- <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-423472?style=for-the-badge&logo=html5&logoColor=white">
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-423472?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-423472?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </div><br/>
 
 ## IDEs <img width="25" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/TatianeCMessias)
+[![](https://img.shields.io/badge/Visual_Studio_Code-25744a?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/TatianeCMessias)
 
 ## Sistema Operacional <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> 
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TatianeCMessias)
+[![](https://img.shields.io/badge/Windows-423472?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TatianeCMessias)
 
 ## Perfil
 - Me chamo Tatiane, estou cursando TI.
