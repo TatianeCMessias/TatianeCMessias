@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/Windows-423472?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TatianeCMessias)
 
 ## Perfil
-- Me chamo Tatiane, estou cursando TI.
+- Me chamo Tatiane, estou cursando TI. Sou apaixonada por tecnologias e inovações e adoro desafios.
 
 ## Cursando
 - Desenvolvimento de Sistemas - ETE
