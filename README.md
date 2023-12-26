@@ -1,6 +1,6 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-### Olá! Me chamo Tatiane Messias🖐️
+### Olá, meu nome é Tatiane, sou Técnica em Desenvolvimento de Sistemas. Atualmente, estou embarcando em uma nova jornada como Desenvolvedora Back-end.🖐️
 
 ## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
 
