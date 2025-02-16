@@ -1,6 +1,6 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-### Olá, meu nome é Tatiane, sou Técnica em Desenvolvimento de Sistemas. Atualmente, estou embarcando em uma nova jornada como Desenvolvedora Back-end.🖐️
+### Olá, meu nome é Tatiane, sou Técnica em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software e embarcando em uma nova jornada como Desenvolvedora Back-end.🖐️
 
 ## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
 
@@ -31,9 +31,10 @@
 ## Perfil
 - Me chamo Tatiane, estou cursando TI. Sou apaixonada por tecnologias e inovações e adoro um bom desafios.
 
-## Cursando
+## Cursos
 - Desenvolvimento de Sistemas - ETE
 - Programador Front-end - SENAI SP
+- Engenharia de Software - Estacio de Sa
 
 ## Hobbies
 - Ler📚
