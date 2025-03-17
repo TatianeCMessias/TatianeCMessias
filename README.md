@@ -1,6 +1,6 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-### Olá, meu nome é Tatiane, sou Técnica em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software e embarcando em uma nova jornada como Desenvolvedora Front-end.🖐️
+### Olá! Me chamo Tatiane Messias e estou atualmente cursando Engenharia de Software. Em 2023, finalizei meu curso de Desenvolvimento de sistemas e agora estou empolgada para embarcar em uma nova jornada como Desenvolvedora Front-end. Estou animada para aplicar meus conhecimentos e habilidades em um campo tão dinâmico e em constante evolução, onde posso contribuir para a criação de experiências digitais envolventes e inovadoras!🖐️
 
 ## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
 
