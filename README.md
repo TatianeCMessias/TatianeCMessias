@@ -15,12 +15,20 @@
 
 ## Tecnologias que estudo: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center">
 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img height="40em" src="https://skillicons.dev/icons?i=java,spring,js,html,css,ts,nodejs,angular,mysql," />
+  </a>
+</p>
+
+<!--
 <div style="display: inline_block"><br/>
 <a href="https://github.com/TatianeCMessias">
  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-423472?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-423472?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-423472?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </div><br/>
+-->
 
 ## IDEs <img width="25" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 [![](https://img.shields.io/badge/Visual_Studio_Code-25744a?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/TatianeCMessias)
