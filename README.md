@@ -42,7 +42,8 @@
 ## Cursos
 - Desenvolvimento de Sistemas - ETE
 - Programador Front-end - SENAI SP
-- Análise e Desenvolvimento de Sistemas- Anhanguera 
+- Análise e Desenvolvimento de Sistemas - Anhanguera
+- Desenvolvedor de Soluções Digitais - KODIE Academy
 
 ## Hobbies
 - Ler📚
