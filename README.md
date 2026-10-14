@@ -1,11 +1,8 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, com formação técnica em Desenvolvimento de Sistemas e interesse em desenvolver soluções tecnológicas que contribuam para a resolução de problemas e a inovação.
-
+Sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, com formação técnica em Desenvolvimento de Sistemas e interesse em desenvolver soluções tecnológicas que contribuam para a resolução de problemas e a inovação.
 Possuo conhecimentos em Java, Spring Boot, JavaScript, React, HTML e CSS, além de interesse em Inteligência Artificial e suas aplicações no desenvolvimento de soluções digitais.
-
 Atualmente, estou aprofundando meus conhecimentos em Desenvolvimento de Soluções Digitais, buscando ampliar minhas habilidades técnicas e compreender melhor as etapas de criação e implementação de soluções tecnológicas.
-
 Valorizo o aprendizado contínuo, a lógica de programação, a organização e a busca por soluções eficientes. Meu objetivo é evoluir constantemente na área de tecnologia, transformar conhecimentos em projetos práticos e contribuir para o desenvolvimento de aplicações úteis, funcionais e de qualidade.🖐️
 
 ## Meus contatos:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center">
